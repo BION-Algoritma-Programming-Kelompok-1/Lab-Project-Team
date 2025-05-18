@@ -1,0 +1,5 @@
+BK001,Harry Potter,Fantasy,150000,20
+BK002,Lord of the Rings,Fantasy,250000,10
+BK003,Python Programming,Education,120000,10
+BK004,Data Science Handbook,Education,180000,10
+BK005,Atomic Habits,Self Motivation,90000,10
